@@ -1,5 +1,6 @@
 button {
-  height: 120px;
+  font-weight: bold;
+  height: 60px;
   width: 120px;
   border-radius: 10%;
 }
@@ -21,6 +22,10 @@ button {
 #b3:active {
   transform: scale(0.98);
   color: blue;
+}
+#reset:active {
+  transform: scale(0.98);
+  color: teal;
 }
 h1 {
   color: blue;
