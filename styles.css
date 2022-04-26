@@ -15,3 +15,14 @@ h1 {
   text-align: center;
   margin-top: 10%;
 }
+
+h2 {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+#winner {
+  font-size: 50px;
+  font-weight: bold;
+  color: red;
+}
